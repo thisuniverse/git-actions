@@ -1,4 +1,4 @@
-const evenNumber = 111
+const evenNumber = 10
 
 if (evenNumber % 2 !== 0) {
   throw '오류'
